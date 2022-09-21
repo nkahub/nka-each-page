@@ -6,8 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-          My Awesome first time page displayed. Thanks to Bogdan
+          This is My first Awesome web page Creation. Thanks to Bogdan
         </p>
         <a
           className="App-link"

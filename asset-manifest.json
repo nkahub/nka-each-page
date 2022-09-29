@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nka-each-page/static/css/main.7329e28e.css",
+    "main.css": "/nka-each-page/static/css/main.3a3f1a80.css",
     "main.js": "/nka-each-page/static/js/main.2c175df6.js",
     "static/js/787.1381e363.chunk.js": "/nka-each-page/static/js/787.1381e363.chunk.js",
     "static/media/challenges.jpg": "/nka-each-page/static/media/challenges.f084070b0a126a273273.jpg",
@@ -9,12 +9,12 @@
     "static/media/related-3.jpg": "/nka-each-page/static/media/related-3.59516c7d8fc56870048f.jpg",
     "static/media/related-2.jpg": "/nka-each-page/static/media/related-2.10e134fa601baa2406eb.jpg",
     "index.html": "/nka-each-page/index.html",
-    "main.7329e28e.css.map": "/nka-each-page/static/css/main.7329e28e.css.map",
+    "main.3a3f1a80.css.map": "/nka-each-page/static/css/main.3a3f1a80.css.map",
     "main.2c175df6.js.map": "/nka-each-page/static/js/main.2c175df6.js.map",
     "787.1381e363.chunk.js.map": "/nka-each-page/static/js/787.1381e363.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7329e28e.css",
+    "static/css/main.3a3f1a80.css",
     "static/js/main.2c175df6.js"
   ]
 }
